@@ -1,24 +1,32 @@
 #Simple CRUD App
 
-Tech Stack
+Tech Stack:
+
 Node.js
 Express.js
 MongoDB
 
-Project Overview
+Project Overview:
+
 This project demonstrates a simple CRUD (Create, Read, Update, Delete) application using Node.js, Express.js, and MongoDB. 
 The application handles all CRUD operations through RESTful API endpoints.
 
 
-Features
+Features:
+
 Create: Add new entries to the database.
+
 Read: Retrieve and display data from the database.
+
 Update: Modify existing entries in the database.
+
 Delete: Remove entries from the database.
 
 
-Tools Used
+Tools Used:
+
 Postman: For testing API requests and ensuring all endpoints work correctly.
+
 MongoDB Atlas: For storing and managing the database.
 
 
